@@ -1,0 +1,61 @@
+{
+  "movies": {
+    "movie": [
+      {
+        "title": "Хакеры",
+        "actors": {
+          "actor": [
+            {
+              "firstname": "Джонни",
+              "lastname": "Миллер"
+            },
+            {
+              "firstname": "Анджелина",
+              "lastname": "Джоли"
+            }
+          ]
+        },
+        "director": {
+          "firstname": "Иэн",
+          "lastname": "Софтли"
+        }
+      },
+      {
+        "title": "Сеть",
+        "actors": {
+          "actor": {
+            "firstname": "Сандра",
+            "lastname": "Буллок"
+          }
+        },
+        "director": {
+          "firstname": "Ирвин",
+          "lastname": "Уинклер"
+        }
+      },
+      {
+        "title": "Джонни Мнемоник",
+        "actors": {
+          "actor": [
+            {
+              "firstname": "Киану",
+              "lastname": "Ривз"
+            },
+            {
+              "firstname": "Такеши",
+              "lastname": "Китано"
+            },
+            {
+              "firstname": "Дольф",
+              "lastname": "Лундгрен"
+            }
+          ]
+        },
+        "director": {
+          "firstname": "Роберт",
+          "lastname": "Лонго"
+        }
+      }
+    ]
+  }
+}
