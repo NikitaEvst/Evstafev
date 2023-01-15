@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie id="4134" year="1995">
+		<title>Хакеры</title>
+		<actors>
+			<actor id="14843">
+				<firstname>Джонни</firstname>
+				<lastname>Миллер</lastname>
+			</actor>
+			<actor id="20866">
+				<firstname>Анджелина</firstname>
+				<lastname>Джоли</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Иэн</firstname>
+			<lastname>Софтли</lastname>
+		</director>
+	</movie>
+	<movie id="6132" year="1995">
+		<title>Сеть</title>
+		<actors>
+			<actor id="6542">
+				<firstname>Сандра</firstname>
+				<lastname>Буллок</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Ирвин</firstname>
+			<lastname>Уинклер</lastname>
+		</director>
+	</movie>
+	<movie id="3800" year="1995">
+		<title>Джонни Мнемоник</title>
+		<actors>
+			<actor id="7836">
+				<firstname>Киану</firstname>
+				<lastname>Ривз</lastname>
+			</actor>
+			<actor id="56697">
+				<firstname>Такеши</firstname>
+				<lastname>Китано</lastname>
+			</actor>
+			<actor id="4768">
+				<firstname>Дольф</firstname>
+				<lastname>Лундгрен</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Роберт</firstname>
+			<lastname>Лонго</lastname>
+		</director>
+	</movie>
+	<movie id="276598" year="2011">
+		<actors>
+			<actor id="0">
+				<firstname>Райан</firstname>
+				<lastname>Гослинг</lastname>
+			</actor>
+		</actors>
+		<director>
+			<firstname>Райан</firstname>
+			<lastname>Гослинг</lastname>
+		</director>
+	</movie>
+</movies>
